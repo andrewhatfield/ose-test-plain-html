@@ -14,5 +14,6 @@ print "This next bit shouldn't work straight away - we haven't attached a Red Ha
 
 <img src="/images/picture.jpg" alt="picture on a Red Hat Gluster Storage Volume">
 
+maybe it did work!
 </BODY>
 </HTML>
